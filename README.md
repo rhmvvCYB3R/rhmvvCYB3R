@@ -3,6 +3,7 @@
 - 👋🏻 Hi, I’m @rhmvvCYB3R
 - ☠️ I’m interested in CYBERSECURITY and REVERSE ENGINEERING 👨‍💻
 - 🧠 I’m currently learning Python🐍,Bash🐧,Pentesting🥷
+- 👾 I will learn C++ and C# as soon as it will be possible 
 - ✅ I’m looking to collaborate on SCAM projects 
 - 📫 How to reach me - in no way
 - 😄 Pronouns: VOLVO HEAVY TRUCK
