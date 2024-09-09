@@ -1,7 +1,7 @@
 [![Version-shield]](https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/CHANGELOG.md) [![Bash4.2-shield]](http://tldp.org/LDP/abs/html/bashver4.html#AEN21220) [![License-shield]](https://github.com/rhmvvCYB3R) [![Discord-shield]](https://discord.gg/2E3689wF)
 
 - 👋🏻 Hi, I’m @rhmvvCYB3R
-- ☠️ I’m interested in CYBERSECURITY👨‍💻
+- ☠️ I’m interested in CYBERSECURITY and REVERSE ENGINEERING 👨‍💻
 - 🧠 I’m currently learning Python🐍,Bash🐧,Pentesting🥷
 - ✅ I’m looking to collaborate on SCAM projects 
 - 📫 How to reach me - in no way
