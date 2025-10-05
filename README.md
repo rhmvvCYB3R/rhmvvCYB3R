@@ -1,9 +1,9 @@
 
 
 - 👋🏻 Hi, I’m @rhmvvCYB3R
-- ☠️ I’m interested in CYBERSECURITY and REVERSE ENGINEERING 👨‍💻
-- 🧠 I’m currently learning Python🐍,Bash🐧,Pentesting🥷
-- 👾 I will learn 
+- ☠️ I’m interested in BackEnd Dev, Software Eng,CYBERSECURITY and REVERSE ENGINEERING 👨‍💻
+- 🧠 I’m currently learning Java,Python.
+- 👾 I will learn Bash
 - ✅ I’m looking to collaborate on ....
 - 📫 How to reach me - in no way
 - 😄 Pronouns: 
